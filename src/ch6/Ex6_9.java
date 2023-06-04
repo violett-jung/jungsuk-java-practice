@@ -46,7 +46,7 @@ class MyMath2 {
     }
     //static 변수
 
-    static long add3(long a, long b) {
+    static long add(long a, long b) {
         return a+b;
     }
 
